@@ -1,0 +1,649 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kacpe\\Documents\\Shop.Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6B34390C-872A-9A84-F0EE-F15A92261F69}|Shop.Api\\Shop.Api.csproj|c:\\users\\kacpe\\documents\\shop.api\\shop.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B34390C-872A-9A84-F0EE-F15A92261F69}|Shop.Api\\Shop.Api.csproj|solutionrelative:shop.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B34390C-872A-9A84-F0EE-F15A92261F69}|Shop.Api\\Shop.Api.csproj|c:\\users\\kacpe\\documents\\shop.api\\shop.api\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B34390C-872A-9A84-F0EE-F15A92261F69}|Shop.Api\\Shop.Api.csproj|solutionrelative:shop.api\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B34390C-872A-9A84-F0EE-F15A92261F69}|Shop.Api\\Shop.Api.csproj|c:\\users\\kacpe\\documents\\shop.api\\shop.api\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B34390C-872A-9A84-F0EE-F15A92261F69}|Shop.Api\\Shop.Api.csproj|solutionrelative:shop.api\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B34390C-872A-9A84-F0EE-F15A92261F69}|Shop.Api\\Shop.Api.csproj|c:\\users\\kacpe\\documents\\shop.api\\shop.api\\models\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B34390C-872A-9A84-F0EE-F15A92261F69}|Shop.Api\\Shop.Api.csproj|solutionrelative:shop.api\\models\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B34390C-872A-9A84-F0EE-F15A92261F69}|Shop.Api\\Shop.Api.csproj|c:\\users\\kacpe\\documents\\shop.api\\shop.api\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B34390C-872A-9A84-F0EE-F15A92261F69}|Shop.Api\\Shop.Api.csproj|solutionrelative:shop.api\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B34390C-872A-9A84-F0EE-F15A92261F69}|Shop.Api\\Shop.Api.csproj|c:\\users\\kacpe\\documents\\shop.api\\shop.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B34390C-872A-9A84-F0EE-F15A92261F69}|Shop.Api\\Shop.Api.csproj|solutionrelative:shop.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B34390C-872A-9A84-F0EE-F15A92261F69}|Shop.Api\\Shop.Api.csproj|c:\\users\\kacpe\\documents\\shop.api\\shop.api\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B34390C-872A-9A84-F0EE-F15A92261F69}|Shop.Api\\Shop.Api.csproj|solutionrelative:shop.api\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B34390C-872A-9A84-F0EE-F15A92261F69}|Shop.Api\\Shop.Api.csproj|c:\\users\\kacpe\\documents\\shop.api\\shop.api\\controllers\\productreviewscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B34390C-872A-9A84-F0EE-F15A92261F69}|Shop.Api\\Shop.Api.csproj|solutionrelative:shop.api\\controllers\\productreviewscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B34390C-872A-9A84-F0EE-F15A92261F69}|Shop.Api\\Shop.Api.csproj|c:\\users\\kacpe\\documents\\shop.api\\shop.api\\controllers\\admincouponscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B34390C-872A-9A84-F0EE-F15A92261F69}|Shop.Api\\Shop.Api.csproj|solutionrelative:shop.api\\controllers\\admincouponscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B34390C-872A-9A84-F0EE-F15A92261F69}|Shop.Api\\Shop.Api.csproj|c:\\users\\kacpe\\documents\\shop.api\\shop.api\\data\\shopdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B34390C-872A-9A84-F0EE-F15A92261F69}|Shop.Api\\Shop.Api.csproj|solutionrelative:shop.api\\data\\shopdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B34390C-872A-9A84-F0EE-F15A92261F69}|Shop.Api\\Shop.Api.csproj|c:\\users\\kacpe\\documents\\shop.api\\shop.api\\models\\productreview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B34390C-872A-9A84-F0EE-F15A92261F69}|Shop.Api\\Shop.Api.csproj|solutionrelative:shop.api\\models\\productreview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B34390C-872A-9A84-F0EE-F15A92261F69}|Shop.Api\\Shop.Api.csproj|c:\\users\\kacpe\\documents\\shop.api\\shop.api\\controllers\\adminorderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B34390C-872A-9A84-F0EE-F15A92261F69}|Shop.Api\\Shop.Api.csproj|solutionrelative:shop.api\\controllers\\adminorderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B34390C-872A-9A84-F0EE-F15A92261F69}|Shop.Api\\Shop.Api.csproj|c:\\users\\kacpe\\documents\\shop.api\\shop.api\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B34390C-872A-9A84-F0EE-F15A92261F69}|Shop.Api\\Shop.Api.csproj|solutionrelative:shop.api\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B34390C-872A-9A84-F0EE-F15A92261F69}|Shop.Api\\Shop.Api.csproj|c:\\users\\kacpe\\documents\\shop.api\\shop.api\\controllers\\adminpromotionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B34390C-872A-9A84-F0EE-F15A92261F69}|Shop.Api\\Shop.Api.csproj|solutionrelative:shop.api\\controllers\\adminpromotionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B34390C-872A-9A84-F0EE-F15A92261F69}|Shop.Api\\Shop.Api.csproj|c:\\users\\kacpe\\documents\\shop.api\\shop.api\\models\\promotion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B34390C-872A-9A84-F0EE-F15A92261F69}|Shop.Api\\Shop.Api.csproj|solutionrelative:shop.api\\models\\promotion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B34390C-872A-9A84-F0EE-F15A92261F69}|Shop.Api\\Shop.Api.csproj|c:\\users\\kacpe\\documents\\shop.api\\shop.api\\shop.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6B34390C-872A-9A84-F0EE-F15A92261F69}|Shop.Api\\Shop.Api.csproj|solutionrelative:shop.api\\shop.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B34390C-872A-9A84-F0EE-F15A92261F69}|Shop.Api\\Shop.Api.csproj|c:\\users\\kacpe\\documents\\shop.api\\shop.api\\controllers\\adminproductscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B34390C-872A-9A84-F0EE-F15A92261F69}|Shop.Api\\Shop.Api.csproj|solutionrelative:shop.api\\controllers\\adminproductscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B34390C-872A-9A84-F0EE-F15A92261F69}|Shop.Api\\Shop.Api.csproj|c:\\users\\kacpe\\documents\\shop.api\\shop.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B34390C-872A-9A84-F0EE-F15A92261F69}|Shop.Api\\Shop.Api.csproj|solutionrelative:shop.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B34390C-872A-9A84-F0EE-F15A92261F69}|Shop.Api\\Shop.Api.csproj|c:\\users\\kacpe\\documents\\shop.api\\shop.api\\controllers\\tagscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B34390C-872A-9A84-F0EE-F15A92261F69}|Shop.Api\\Shop.Api.csproj|solutionrelative:shop.api\\controllers\\tagscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B34390C-872A-9A84-F0EE-F15A92261F69}|Shop.Api\\Shop.Api.csproj|c:\\users\\kacpe\\documents\\shop.api\\shop.api\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B34390C-872A-9A84-F0EE-F15A92261F69}|Shop.Api\\Shop.Api.csproj|solutionrelative:shop.api\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B34390C-872A-9A84-F0EE-F15A92261F69}|Shop.Api\\Shop.Api.csproj|c:\\users\\kacpe\\documents\\shop.api\\shop.api\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B34390C-872A-9A84-F0EE-F15A92261F69}|Shop.Api\\Shop.Api.csproj|solutionrelative:shop.api\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B34390C-872A-9A84-F0EE-F15A92261F69}|Shop.Api\\Shop.Api.csproj|c:\\users\\kacpe\\documents\\shop.api\\shop.api\\models\\paymentstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B34390C-872A-9A84-F0EE-F15A92261F69}|Shop.Api\\Shop.Api.csproj|solutionrelative:shop.api\\models\\paymentstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B34390C-872A-9A84-F0EE-F15A92261F69}|Shop.Api\\Shop.Api.csproj|c:\\users\\kacpe\\documents\\shop.api\\shop.api\\models\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B34390C-872A-9A84-F0EE-F15A92261F69}|Shop.Api\\Shop.Api.csproj|solutionrelative:shop.api\\models\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B34390C-872A-9A84-F0EE-F15A92261F69}|Shop.Api\\Shop.Api.csproj|c:\\users\\kacpe\\documents\\shop.api\\shop.api\\controllers\\eventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B34390C-872A-9A84-F0EE-F15A92261F69}|Shop.Api\\Shop.Api.csproj|solutionrelative:shop.api\\controllers\\eventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B34390C-872A-9A84-F0EE-F15A92261F69}|Shop.Api\\Shop.Api.csproj|c:\\users\\kacpe\\documents\\shop.api\\shop.api\\controllers\\adminuserscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B34390C-872A-9A84-F0EE-F15A92261F69}|Shop.Api\\Shop.Api.csproj|solutionrelative:shop.api\\controllers\\adminuserscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B34390C-872A-9A84-F0EE-F15A92261F69}|Shop.Api\\Shop.Api.csproj|c:\\users\\kacpe\\documents\\shop.api\\shop.api\\models\\producttag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B34390C-872A-9A84-F0EE-F15A92261F69}|Shop.Api\\Shop.Api.csproj|solutionrelative:shop.api\\models\\producttag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B34390C-872A-9A84-F0EE-F15A92261F69}|Shop.Api\\Shop.Api.csproj|c:\\users\\kacpe\\documents\\shop.api\\shop.api\\models\\coupon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B34390C-872A-9A84-F0EE-F15A92261F69}|Shop.Api\\Shop.Api.csproj|solutionrelative:shop.api\\models\\coupon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B34390C-872A-9A84-F0EE-F15A92261F69}|Shop.Api\\Shop.Api.csproj|c:\\users\\kacpe\\documents\\shop.api\\shop.api\\models\\productcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B34390C-872A-9A84-F0EE-F15A92261F69}|Shop.Api\\Shop.Api.csproj|solutionrelative:shop.api\\models\\productcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B34390C-872A-9A84-F0EE-F15A92261F69}|Shop.Api\\Shop.Api.csproj|c:\\users\\kacpe\\documents\\shop.api\\shop.api\\models\\userevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B34390C-872A-9A84-F0EE-F15A92261F69}|Shop.Api\\Shop.Api.csproj|solutionrelative:shop.api\\models\\userevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B34390C-872A-9A84-F0EE-F15A92261F69}|Shop.Api\\Shop.Api.csproj|c:\\users\\kacpe\\documents\\shop.api\\shop.api\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B34390C-872A-9A84-F0EE-F15A92261F69}|Shop.Api\\Shop.Api.csproj|solutionrelative:shop.api\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B34390C-872A-9A84-F0EE-F15A92261F69}|Shop.Api\\Shop.Api.csproj|c:\\users\\kacpe\\documents\\shop.api\\shop.api\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B34390C-872A-9A84-F0EE-F15A92261F69}|Shop.Api\\Shop.Api.csproj|solutionrelative:shop.api\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B34390C-872A-9A84-F0EE-F15A92261F69}|Shop.Api\\Shop.Api.csproj|c:\\users\\kacpe\\documents\\shop.api\\shop.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6B34390C-872A-9A84-F0EE-F15A92261F69}|Shop.Api\\Shop.Api.csproj|solutionrelative:shop.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B34390C-872A-9A84-F0EE-F15A92261F69}|Shop.Api\\Shop.Api.csproj|c:\\users\\kacpe\\documents\\shop.api\\shop.api\\migrations\\20251127170508_addproductreviewsandseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B34390C-872A-9A84-F0EE-F15A92261F69}|Shop.Api\\Shop.Api.csproj|solutionrelative:shop.api\\migrations\\20251127170508_addproductreviewsandseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B34390C-872A-9A84-F0EE-F15A92261F69}|Shop.Api\\Shop.Api.csproj|c:\\users\\kacpe\\documents\\shop.api\\shop.api\\migrations\\20251127154717_addidentitysupport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B34390C-872A-9A84-F0EE-F15A92261F69}|Shop.Api\\Shop.Api.csproj|solutionrelative:shop.api\\migrations\\20251127154717_addidentitysupport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B34390C-872A-9A84-F0EE-F15A92261F69}|Shop.Api\\Shop.Api.csproj|c:\\users\\kacpe\\documents\\shop.api\\shop.api\\migrations\\20251127152608_addcategoriestagspromotionscoupons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B34390C-872A-9A84-F0EE-F15A92261F69}|Shop.Api\\Shop.Api.csproj|solutionrelative:shop.api\\migrations\\20251127152608_addcategoriestagspromotionscoupons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B34390C-872A-9A84-F0EE-F15A92261F69}|Shop.Api\\Shop.Api.csproj|c:\\users\\kacpe\\documents\\shop.api\\shop.api\\migrations\\20251127150430_addproductimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B34390C-872A-9A84-F0EE-F15A92261F69}|Shop.Api\\Shop.Api.csproj|solutionrelative:shop.api\\migrations\\20251127150430_addproductimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B34390C-872A-9A84-F0EE-F15A92261F69}|Shop.Api\\Shop.Api.csproj|c:\\users\\kacpe\\documents\\shop.api\\shop.api\\migrations\\20251127151103_adduserevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B34390C-872A-9A84-F0EE-F15A92261F69}|Shop.Api\\Shop.Api.csproj|solutionrelative:shop.api\\migrations\\20251127151103_adduserevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B34390C-872A-9A84-F0EE-F15A92261F69}|Shop.Api\\Shop.Api.csproj|c:\\users\\kacpe\\documents\\shop.api\\shop.api\\migrations\\20251127143304_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B34390C-872A-9A84-F0EE-F15A92261F69}|Shop.Api\\Shop.Api.csproj|solutionrelative:shop.api\\migrations\\20251127143304_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B34390C-872A-9A84-F0EE-F15A92261F69}|Shop.Api\\Shop.Api.csproj|c:\\users\\kacpe\\documents\\shop.api\\shop.api\\migrations\\20251127143906_addorders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B34390C-872A-9A84-F0EE-F15A92261F69}|Shop.Api\\Shop.Api.csproj|solutionrelative:shop.api\\migrations\\20251127143906_addorders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductReview.cs",
+              "DocumentMoniker": "C:\\Users\\kacpe\\Documents\\Shop.Api\\Shop.Api\\Models\\ProductReview.cs",
+              "RelativeDocumentMoniker": "Shop.Api\\Models\\ProductReview.cs",
+              "ToolTip": "C:\\Users\\kacpe\\Documents\\Shop.Api\\Shop.Api\\Models\\ProductReview.cs",
+              "RelativeToolTip": "Shop.Api\\Models\\ProductReview.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T17:01:02.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AdminOrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\kacpe\\Documents\\Shop.Api\\Shop.Api\\Controllers\\AdminOrdersController.cs",
+              "RelativeDocumentMoniker": "Shop.Api\\Controllers\\AdminOrdersController.cs",
+              "ToolTip": "C:\\Users\\kacpe\\Documents\\Shop.Api\\Shop.Api\\Controllers\\AdminOrdersController.cs",
+              "RelativeToolTip": "Shop.Api\\Controllers\\AdminOrdersController.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAiwFkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T15:55:30.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\kacpe\\Documents\\Shop.Api\\Shop.Api\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Shop.Api\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\kacpe\\Documents\\Shop.Api\\Shop.Api\\Models\\Product.cs",
+              "RelativeToolTip": "Shop.Api\\Models\\Product.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAIA5wBwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T14:16:06.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Promotion.cs",
+              "DocumentMoniker": "C:\\Users\\kacpe\\Documents\\Shop.Api\\Shop.Api\\Models\\Promotion.cs",
+              "RelativeDocumentMoniker": "Shop.Api\\Models\\Promotion.cs",
+              "ToolTip": "C:\\Users\\kacpe\\Documents\\Shop.Api\\Shop.Api\\Models\\Promotion.cs",
+              "RelativeToolTip": "Shop.Api\\Models\\Promotion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T15:22:33.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\kacpe\\Documents\\Shop.Api\\Shop.Api\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "Shop.Api\\Models\\AppUser.cs",
+              "ToolTip": "C:\\Users\\kacpe\\Documents\\Shop.Api\\Shop.Api\\Models\\AppUser.cs",
+              "RelativeToolTip": "Shop.Api\\Models\\AppUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T15:30:37.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ShopDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\kacpe\\Documents\\Shop.Api\\Shop.Api\\Data\\ShopDbContext.cs",
+              "RelativeDocumentMoniker": "Shop.Api\\Data\\ShopDbContext.cs",
+              "ToolTip": "C:\\Users\\kacpe\\Documents\\Shop.Api\\Shop.Api\\Data\\ShopDbContext.cs",
+              "RelativeToolTip": "Shop.Api\\Data\\ShopDbContext.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAASwEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T14:29:51.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\kacpe\\Documents\\Shop.Api\\Shop.Api\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Shop.Api\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\kacpe\\Documents\\Shop.Api\\Shop.Api\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Shop.Api\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAUwHIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T15:33:08.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "20251127170508_AddProductReviewsAndSeed.cs",
+              "DocumentMoniker": "C:\\Users\\kacpe\\Documents\\Shop.Api\\Shop.Api\\Migrations\\20251127170508_AddProductReviewsAndSeed.cs",
+              "RelativeDocumentMoniker": "Shop.Api\\Migrations\\20251127170508_AddProductReviewsAndSeed.cs",
+              "ToolTip": "C:\\Users\\kacpe\\Documents\\Shop.Api\\Shop.Api\\Migrations\\20251127170508_AddProductReviewsAndSeed.cs",
+              "RelativeToolTip": "Shop.Api\\Migrations\\20251127170508_AddProductReviewsAndSeed.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T17:05:08.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\kacpe\\Documents\\Shop.Api\\Shop.Api\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Shop.Api\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\kacpe\\Documents\\Shop.Api\\Shop.Api\\Models\\Category.cs",
+              "RelativeToolTip": "Shop.Api\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T15:20:59.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Tag.cs",
+              "DocumentMoniker": "C:\\Users\\kacpe\\Documents\\Shop.Api\\Shop.Api\\Models\\Tag.cs",
+              "RelativeDocumentMoniker": "Shop.Api\\Models\\Tag.cs",
+              "ToolTip": "C:\\Users\\kacpe\\Documents\\Shop.Api\\Shop.Api\\Models\\Tag.cs",
+              "RelativeToolTip": "Shop.Api\\Models\\Tag.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T15:21:32.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductReviewsController.cs",
+              "DocumentMoniker": "C:\\Users\\kacpe\\Documents\\Shop.Api\\Shop.Api\\Controllers\\ProductReviewsController.cs",
+              "RelativeDocumentMoniker": "Shop.Api\\Controllers\\ProductReviewsController.cs",
+              "ToolTip": "C:\\Users\\kacpe\\Documents\\Shop.Api\\Shop.Api\\Controllers\\ProductReviewsController.cs",
+              "RelativeToolTip": "Shop.Api\\Controllers\\ProductReviewsController.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAiwJIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T17:03:44.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "C:\\Users\\kacpe\\Documents\\Shop.Api\\Shop.Api\\Data\\SeedData.cs",
+              "RelativeDocumentMoniker": "Shop.Api\\Data\\SeedData.cs",
+              "ToolTip": "C:\\Users\\kacpe\\Documents\\Shop.Api\\Shop.Api\\Data\\SeedData.cs",
+              "RelativeToolTip": "Shop.Api\\Data\\SeedData.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAiwEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T17:04:14.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kacpe\\Documents\\Shop.Api\\Shop.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Shop.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\kacpe\\Documents\\Shop.Api\\Shop.Api\\Program.cs",
+              "RelativeToolTip": "Shop.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T14:08:34.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AdminProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\kacpe\\Documents\\Shop.Api\\Shop.Api\\Controllers\\AdminProductsController.cs",
+              "RelativeDocumentMoniker": "Shop.Api\\Controllers\\AdminProductsController.cs",
+              "ToolTip": "C:\\Users\\kacpe\\Documents\\Shop.Api\\Shop.Api\\Controllers\\AdminProductsController.cs",
+              "RelativeToolTip": "Shop.Api\\Controllers\\AdminProductsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T16:22:16.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AdminCouponsController.cs",
+              "DocumentMoniker": "C:\\Users\\kacpe\\Documents\\Shop.Api\\Shop.Api\\Controllers\\AdminCouponsController.cs",
+              "RelativeDocumentMoniker": "Shop.Api\\Controllers\\AdminCouponsController.cs",
+              "ToolTip": "C:\\Users\\kacpe\\Documents\\Shop.Api\\Shop.Api\\Controllers\\AdminCouponsController.cs",
+              "RelativeToolTip": "Shop.Api\\Controllers\\AdminCouponsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T15:28:24.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Shop.Api.csproj",
+              "DocumentMoniker": "C:\\Users\\kacpe\\Documents\\Shop.Api\\Shop.Api\\Shop.Api.csproj",
+              "RelativeDocumentMoniker": "Shop.Api\\Shop.Api.csproj",
+              "ToolTip": "C:\\Users\\kacpe\\Documents\\Shop.Api\\Shop.Api\\Shop.Api.csproj",
+              "RelativeToolTip": "Shop.Api\\Shop.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-27T14:11:12.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\kacpe\\Documents\\Shop.Api\\Shop.Api\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Shop.Api\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\kacpe\\Documents\\Shop.Api\\Shop.Api\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Shop.Api\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAIMAAAAAAAAAAAAiwJIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T14:16:51.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\kacpe\\Documents\\Shop.Api\\Shop.Api\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "Shop.Api\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\kacpe\\Documents\\Shop.Api\\Shop.Api\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "Shop.Api\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAAOoAAAAAAAAAAAAqwPwAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T14:39:32.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "EventsController.cs",
+              "DocumentMoniker": "C:\\Users\\kacpe\\Documents\\Shop.Api\\Shop.Api\\Controllers\\EventsController.cs",
+              "RelativeDocumentMoniker": "Shop.Api\\Controllers\\EventsController.cs",
+              "ToolTip": "C:\\Users\\kacpe\\Documents\\Shop.Api\\Shop.Api\\Controllers\\EventsController.cs",
+              "RelativeToolTip": "Shop.Api\\Controllers\\EventsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T15:11:26.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AdminPromotionsController.cs",
+              "DocumentMoniker": "C:\\Users\\kacpe\\Documents\\Shop.Api\\Shop.Api\\Controllers\\AdminPromotionsController.cs",
+              "RelativeDocumentMoniker": "Shop.Api\\Controllers\\AdminPromotionsController.cs",
+              "ToolTip": "C:\\Users\\kacpe\\Documents\\Shop.Api\\Shop.Api\\Controllers\\AdminPromotionsController.cs",
+              "RelativeToolTip": "Shop.Api\\Controllers\\AdminPromotionsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T15:27:56.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\kacpe\\Documents\\Shop.Api\\Shop.Api\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "Shop.Api\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\kacpe\\Documents\\Shop.Api\\Shop.Api\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "Shop.Api\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T15:27:38.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "20251127154717_AddIdentitySupport.cs",
+              "DocumentMoniker": "C:\\Users\\kacpe\\Documents\\Shop.Api\\Shop.Api\\Migrations\\20251127154717_AddIdentitySupport.cs",
+              "RelativeDocumentMoniker": "Shop.Api\\Migrations\\20251127154717_AddIdentitySupport.cs",
+              "ToolTip": "C:\\Users\\kacpe\\Documents\\Shop.Api\\Shop.Api\\Migrations\\20251127154717_AddIdentitySupport.cs",
+              "RelativeToolTip": "Shop.Api\\Migrations\\20251127154717_AddIdentitySupport.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T15:47:17.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "OrderStatus.cs",
+              "DocumentMoniker": "C:\\Users\\kacpe\\Documents\\Shop.Api\\Shop.Api\\Models\\OrderStatus.cs",
+              "RelativeDocumentMoniker": "Shop.Api\\Models\\OrderStatus.cs",
+              "ToolTip": "C:\\Users\\kacpe\\Documents\\Shop.Api\\Shop.Api\\Models\\OrderStatus.cs",
+              "RelativeToolTip": "Shop.Api\\Models\\OrderStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T15:52:27.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TagsController.cs",
+              "DocumentMoniker": "C:\\Users\\kacpe\\Documents\\Shop.Api\\Shop.Api\\Controllers\\TagsController.cs",
+              "RelativeDocumentMoniker": "Shop.Api\\Controllers\\TagsController.cs",
+              "ToolTip": "C:\\Users\\kacpe\\Documents\\Shop.Api\\Shop.Api\\Controllers\\TagsController.cs",
+              "RelativeToolTip": "Shop.Api\\Controllers\\TagsController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T16:06:38.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "PaymentStatus.cs",
+              "DocumentMoniker": "C:\\Users\\kacpe\\Documents\\Shop.Api\\Shop.Api\\Models\\PaymentStatus.cs",
+              "RelativeDocumentMoniker": "Shop.Api\\Models\\PaymentStatus.cs",
+              "ToolTip": "C:\\Users\\kacpe\\Documents\\Shop.Api\\Shop.Api\\Models\\PaymentStatus.cs",
+              "RelativeToolTip": "Shop.Api\\Models\\PaymentStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T15:52:42.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\kacpe\\Documents\\Shop.Api\\Shop.Api\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Shop.Api\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\kacpe\\Documents\\Shop.Api\\Shop.Api\\Models\\Order.cs",
+              "RelativeToolTip": "Shop.Api\\Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T14:38:29.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AdminUsersController.cs",
+              "DocumentMoniker": "C:\\Users\\kacpe\\Documents\\Shop.Api\\Shop.Api\\Controllers\\AdminUsersController.cs",
+              "RelativeDocumentMoniker": "Shop.Api\\Controllers\\AdminUsersController.cs",
+              "ToolTip": "C:\\Users\\kacpe\\Documents\\Shop.Api\\Shop.Api\\Controllers\\AdminUsersController.cs",
+              "RelativeToolTip": "Shop.Api\\Controllers\\AdminUsersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T15:33:26.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ProductTag.cs",
+              "DocumentMoniker": "C:\\Users\\kacpe\\Documents\\Shop.Api\\Shop.Api\\Models\\ProductTag.cs",
+              "RelativeDocumentMoniker": "Shop.Api\\Models\\ProductTag.cs",
+              "ToolTip": "C:\\Users\\kacpe\\Documents\\Shop.Api\\Shop.Api\\Models\\ProductTag.cs",
+              "RelativeToolTip": "Shop.Api\\Models\\ProductTag.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T15:22:03.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "20251127152608_AddCategoriesTagsPromotionsCoupons.cs",
+              "DocumentMoniker": "C:\\Users\\kacpe\\Documents\\Shop.Api\\Shop.Api\\Migrations\\20251127152608_AddCategoriesTagsPromotionsCoupons.cs",
+              "RelativeDocumentMoniker": "Shop.Api\\Migrations\\20251127152608_AddCategoriesTagsPromotionsCoupons.cs",
+              "ToolTip": "C:\\Users\\kacpe\\Documents\\Shop.Api\\Shop.Api\\Migrations\\20251127152608_AddCategoriesTagsPromotionsCoupons.cs",
+              "RelativeToolTip": "Shop.Api\\Migrations\\20251127152608_AddCategoriesTagsPromotionsCoupons.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T15:26:08.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Coupon.cs",
+              "DocumentMoniker": "C:\\Users\\kacpe\\Documents\\Shop.Api\\Shop.Api\\Models\\Coupon.cs",
+              "RelativeDocumentMoniker": "Shop.Api\\Models\\Coupon.cs",
+              "ToolTip": "C:\\Users\\kacpe\\Documents\\Shop.Api\\Shop.Api\\Models\\Coupon.cs",
+              "RelativeToolTip": "Shop.Api\\Models\\Coupon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T15:22:49.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ProductCategory.cs",
+              "DocumentMoniker": "C:\\Users\\kacpe\\Documents\\Shop.Api\\Shop.Api\\Models\\ProductCategory.cs",
+              "RelativeDocumentMoniker": "Shop.Api\\Models\\ProductCategory.cs",
+              "ToolTip": "C:\\Users\\kacpe\\Documents\\Shop.Api\\Shop.Api\\Models\\ProductCategory.cs",
+              "RelativeToolTip": "Shop.Api\\Models\\ProductCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T15:21:51.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "20251127150430_AddProductImage.cs",
+              "DocumentMoniker": "C:\\Users\\kacpe\\Documents\\Shop.Api\\Shop.Api\\Migrations\\20251127150430_AddProductImage.cs",
+              "RelativeDocumentMoniker": "Shop.Api\\Migrations\\20251127150430_AddProductImage.cs",
+              "ToolTip": "C:\\Users\\kacpe\\Documents\\Shop.Api\\Shop.Api\\Migrations\\20251127150430_AddProductImage.cs",
+              "RelativeToolTip": "Shop.Api\\Migrations\\20251127150430_AddProductImage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T15:04:30.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "UserEvent.cs",
+              "DocumentMoniker": "C:\\Users\\kacpe\\Documents\\Shop.Api\\Shop.Api\\Models\\UserEvent.cs",
+              "RelativeDocumentMoniker": "Shop.Api\\Models\\UserEvent.cs",
+              "ToolTip": "C:\\Users\\kacpe\\Documents\\Shop.Api\\Shop.Api\\Models\\UserEvent.cs",
+              "RelativeToolTip": "Shop.Api\\Models\\UserEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T15:10:29.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "20251127151103_AddUserEvents.cs",
+              "DocumentMoniker": "C:\\Users\\kacpe\\Documents\\Shop.Api\\Shop.Api\\Migrations\\20251127151103_AddUserEvents.cs",
+              "RelativeDocumentMoniker": "Shop.Api\\Migrations\\20251127151103_AddUserEvents.cs",
+              "ToolTip": "C:\\Users\\kacpe\\Documents\\Shop.Api\\Shop.Api\\Migrations\\20251127151103_AddUserEvents.cs",
+              "RelativeToolTip": "Shop.Api\\Migrations\\20251127151103_AddUserEvents.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T15:11:03.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\kacpe\\Documents\\Shop.Api\\Shop.Api\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "Shop.Api\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\kacpe\\Documents\\Shop.Api\\Shop.Api\\Models\\Customer.cs",
+              "RelativeToolTip": "Shop.Api\\Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T14:38:14.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "20251127143304_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\kacpe\\Documents\\Shop.Api\\Shop.Api\\Migrations\\20251127143304_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Shop.Api\\Migrations\\20251127143304_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\kacpe\\Documents\\Shop.Api\\Shop.Api\\Migrations\\20251127143304_InitialCreate.cs",
+              "RelativeToolTip": "Shop.Api\\Migrations\\20251127143304_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T14:33:04.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\kacpe\\Documents\\Shop.Api\\Shop.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "Shop.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\kacpe\\Documents\\Shop.Api\\Shop.Api\\appsettings.json",
+              "RelativeToolTip": "Shop.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-27T14:29:07.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\kacpe\\Documents\\Shop.Api\\Shop.Api\\Models\\OrderItem.cs",
+              "RelativeDocumentMoniker": "Shop.Api\\Models\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\kacpe\\Documents\\Shop.Api\\Shop.Api\\Models\\OrderItem.cs",
+              "RelativeToolTip": "Shop.Api\\Models\\OrderItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T14:38:41.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "20251127143906_AddOrders.cs",
+              "DocumentMoniker": "C:\\Users\\kacpe\\Documents\\Shop.Api\\Shop.Api\\Migrations\\20251127143906_AddOrders.cs",
+              "RelativeDocumentMoniker": "Shop.Api\\Migrations\\20251127143906_AddOrders.cs",
+              "ToolTip": "C:\\Users\\kacpe\\Documents\\Shop.Api\\Shop.Api\\Migrations\\20251127143906_AddOrders.cs",
+              "RelativeToolTip": "Shop.Api\\Migrations\\20251127143906_AddOrders.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T14:39:06.992Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
